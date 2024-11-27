@@ -1,3 +1,4 @@
 # Hammad-demo
-This is my first git repositary.
+This is my first git repository.
+<br>
 Author-Hammad
